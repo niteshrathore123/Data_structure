@@ -1,3 +1,4 @@
+#link - https://practice.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest
 # Brute force 
 # t.c -O(nlogn) s.c-O(1)
 def secondLargestElement(arr,n):
